@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary">#8FA7D5</color>
+    <color name="secondary">#000F2C</color>
+    <color name="carBackground">#E9E9E9</color>
+    <color name="checOutBackground">#F6F0F0</color>
+</resources>
