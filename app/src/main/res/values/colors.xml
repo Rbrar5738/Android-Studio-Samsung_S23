@@ -5,5 +5,5 @@
     <color name="primary">#8FA7D5</color>
     <color name="secondary">#000F2C</color>
     <color name="carBackground">#E9E9E9</color>
-    <color name="checOutBackground">#F6F0F0</color>
+    <color name="checOutBackground">#e4ebfe</color>
 </resources>
